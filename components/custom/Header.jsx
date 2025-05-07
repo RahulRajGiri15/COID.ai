@@ -97,7 +97,7 @@ function Header() {
                       href="mailto:rrahulrajgiri15@gmail.com"
                       className="block text-sm text-white hover:bg-gradient-to-r hover:from-blue-600 hover:to-pink-600 bg-clip-text text-transparent hover:text-transparent hover:bg-clip-text transition duration-300 border border-gray-600 rounded-md p-2"
                     >
-                      Gmail:
+                      Gmail:  rrahulrajgiri15@gmail.com
                     </a>
                   </li>
                 </ul>
