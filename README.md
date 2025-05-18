@@ -95,9 +95,4 @@ Made with ❤️ by **Rahul Kumar Giri**
 *  [GitHub](https://github.com/RahulRajGiri15)
 *  [LinkedIn](https://www.linkedin.com/in/rahulkumargiri15/)
 
----
-
-##  License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
